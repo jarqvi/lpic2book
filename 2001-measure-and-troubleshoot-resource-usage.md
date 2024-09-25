@@ -291,7 +291,7 @@ Like top, you can use < > keys to sort based on different columns, and you can p
 
 ### nload
 
-Networl Load nload is another Handy tool, this time for monitoring current bandwidth.
+Network Load nload is another Handy tool, this time for monitoring current bandwidth.
 
 ```
 Device ens33 [192.168.10.131] (1/2):
